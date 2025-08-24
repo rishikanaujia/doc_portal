@@ -1,3 +1,17 @@
+# Project 1:- RAG Based Application (Doc portal)
+
+ we will use RAG architecture , end to end from the development and deployment
+
+## Core Feature
+
+1. **Analysis any Documents** 
+2. **Compare any two Documents**
+3. **Talk to any ingle documents**
+4. **talk to Multiple documents**
+
+
+## Tech stack
+
 ## command needs to fellow
 ```
 mkdir <project_name>
@@ -6,11 +20,11 @@ mkdir <project_name>
 cd <project_name>
 ```
 
-## Create a vertial environment 
+## Create a virtual environment 
 ```
 conda create -p env python=3.10 -y
 ```
-## Acivate vertial environment
+## Activate virtual environment
 ```
 conda activate <path of virtual environment>
 ```
