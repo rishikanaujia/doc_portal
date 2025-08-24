@@ -53,6 +53,25 @@ https://github.com/rishikanaujia/doc_portal.git
     - huggingface (freely)
     - ollama (local setup)
 
-- 2. Grok API key
+- 2. Grok API key 
 - 3. Gemini API key
 - 4. setup Embedding Model 
+
+## Grok API key Link
+```
+https://console.groq.com/keys
+```
+## Gemini API key Link
+```
+https://aistudio.google.com/apikey
+```
+```
+https://ai.google.dev/gemini-api/docs
+```
+
+## Next step 
+- 1. Understand the usecase in better way
+- 2. Perform all the required experiments  in jupyter notebook
+- 3. setup logging and exception 
+- 4. config and utils
+## 

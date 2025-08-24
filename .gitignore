@@ -4,4 +4,5 @@ env
 .idea
 .DS_Store
 *.local
-*.log       
+*.log  
+doc_portal.egg-info     
