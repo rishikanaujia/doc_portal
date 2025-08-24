@@ -27,3 +27,7 @@ git commit -m "<commit message>"
 ```
 git push
 ```
+### clone this repository 
+```
+https://github.com/rishikanaujia/doc_portal.git
+```
