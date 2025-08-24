@@ -45,3 +45,14 @@ git push
 ```
 https://github.com/rishikanaujia/doc_portal.git
 ```
+## Minium requirements for this project
+- 1. LLL Model 
+    - groq (freely)
+    - gemini (15 day free access)
+    - claude (paid)
+    - huggingface (freely)
+    - ollama (local setup)
+
+- 2. Grok API key
+- 3. Gemini API key
+- 4. setup Embedding Model 
