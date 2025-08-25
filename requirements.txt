@@ -1,5 +1,7 @@
 langchain-groq
 langchain-google-genai
+langchain-community
+pypdf
 python-dotenv
 ipykernel
 
